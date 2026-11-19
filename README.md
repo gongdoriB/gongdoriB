@@ -7,12 +7,15 @@ My central interest is **human-AI interaction** — AI that fits how people actu
 
 **Interests** · Human-AI Interaction · XR Interaction & Sensing · Multilingual & Multimodal Language Models · Model Evaluation
 
-#### 🔬 Research
-- **Query–Interface Language Mismatch in Multilingual GUI Reasoning** (CUAI, 2026 – )
-  How VLMs misread a GUI when the question and on-screen text are in different languages.
+#### 🥽 XR Interaction
+- **HMD-Based Head-Gesture Recognition for Hands-Free XR Interaction** (INC LAB, 2026) — KDCS Gold Prize, IWCS 2026 poster
+- **G-NOISE: Exploring Urban Noise Responses in a Virtual City** (2026) — team leader & AI; Excellence Award, Gyeonggi Virtual Convergence Content Challenge
+
+#### 🧠 Language & Multimodal Models
+- **Query–Interface Language Mismatch in Multilingual GUI Reasoning** (CUAI, 2026 – ) — Grand Prize, CUAI Summer Conference
+  How VLMs read a GUI when the question and on-screen text are in different languages.
   Code: [gongdoriB/mpr-gui-crosslocale](https://github.com/gongdoriB/mpr-gui-crosslocale)
 - **Answer Correction in Language Models Following User Feedback** (INC LAB, 2026) — submitted to DigiCon-26
-- **HMD-Based Head-Gesture Recognition for Hands-Free XR Interaction** (INC LAB, 2026) — KDCS Gold Prize, IWCS 2026 poster
 
 #### 🛠 Tools
 Python · PyTorch · Hugging Face Transformers · scikit-learn · Unity / OpenXR · MediaPipe
