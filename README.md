@@ -16,8 +16,10 @@ My central interest is **human-AI interaction** — AI that fits how people actu
   Code: [gongdoriB/answer-correction-feedback](https://github.com/gongdoriB/answer-correction-feedback)
 
 #### 🥽 XR Interaction
-- **HMD-Based Head-Gesture Recognition for Hands-Free XR Interaction** (INC LAB, 2026) — KDCS Gold Prize, IWCS 2026 poster
-- **G-NOISE: Exploring Urban Noise Responses in a Virtual City** (2026) — team leader & AI; Excellence Award, Gyeonggi Virtual Convergence Content Challenge
+- **HMD-Based Head-Gesture Recognition for Hands-Free XR Interaction** (INC LAB, 2026) — KDCS Gold Prize, IWCS 2026 poster  
+  Code: [gongdoriB/hmd-head-gesture](https://github.com/gongdoriB/hmd-head-gesture)
+- **G-NOISE: Exploring Urban Noise Responses in a Virtual City** (2026) — team leader & AI; Excellence Award, Gyeonggi Virtual Convergence Content Challenge  
+  Code: [gongdoriB/gnoise-ai](https://github.com/gongdoriB/gnoise-ai) (audio module)
 
 #### 🛠 Tools
 Python · PyTorch · Hugging Face Transformers · scikit-learn · Unity / OpenXR · MediaPipe
