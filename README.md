@@ -12,6 +12,8 @@ My central interest is **human-AI interaction** — AI that fits how people actu
   How VLMs read a GUI when the question and on-screen text are in different languages.
   Code: [gongdoriB/mpr-gui-crosslocale](https://github.com/gongdoriB/mpr-gui-crosslocale)
 - **Answer Correction in Language Models Following User Feedback** (INC LAB, 2026) — accepted to DigiCon-26; recommended for the Best Paper Award by both reviewers
+  How anti-sycophancy instructions also block valid corrections in Qwen3.
+  Code: [gongdoriB/answer-correction-feedback](https://github.com/gongdoriB/answer-correction-feedback)
 
 #### 🥽 XR Interaction
 - **HMD-Based Head-Gesture Recognition for Hands-Free XR Interaction** (INC LAB, 2026) — KDCS Gold Prize, IWCS 2026 poster
