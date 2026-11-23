@@ -3,9 +3,9 @@
 🌐 **[gongdorib.github.io](https://gongdorib.github.io)** — research, projects and CV
 
 Undergraduate researcher at **Chung-Ang University** (Art and Technology · Cybersecurity).
-My central interest is **human-AI interaction** — AI that fits how people actually behave and that people can use, check and correct more easily. Most of my recent work is on **language & multimodal models** (how VLMs understand GUIs across languages; how LLMs respond to user feedback). I have also worked on **XR interaction** (sensing human movement as hands-free input; XR experiences for exploring real-world data).
+My research interests lie in **large language models and multimodal AI**, particularly in the context of **human-AI interaction** — models that understand user inputs, reason over context, and respond appropriately when people check and correct them. My recent work studies how VLMs understand GUIs across languages and how LLMs revise their answers after user feedback. I have also worked on **XR interaction** (sensing head movement as hands-free input; XR experiences for exploring real-world data).
 
-**Interests** · Human-AI Interaction · Multilingual & Multimodal Language Models · Model Evaluation · XR Interaction & Sensing
+**Interests** · Large Language Models · Multimodal & Vision-Language Models · Multilingual AI · Human-AI Interaction · XR Interaction & Sensing
 
 #### 🧠 Language & Multimodal Models
 - **Query–Interface Language Mismatch in Multilingual GUI Reasoning** (CUAI, 2026 – ) — Grand Prize, CUAI Summer Conference
